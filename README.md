@@ -10,6 +10,9 @@
 
 ## Tecnologias que eu tenho Habilidade:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-abranches&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
 
 ### Front-end:
