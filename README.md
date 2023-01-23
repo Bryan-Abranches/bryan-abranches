@@ -4,6 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanabranches_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fgithub.com%2FBryan-Abranches&e=AT2L4oM2qAt1qGETWNOIyM9YbnkrPtISVCF5ZjGaw1xHWrxJ6e7qs-K0lca8S4KwTCB30Gc4g11IDUs5w6pncxI8ahpP2u3gEyqdK8XR4YasnS398csVwg)
 
+<br>
+
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-abranches&show_icons=true&theme=radical)
 
 ## Tecnologias que eu tenho Habilidade:
 
