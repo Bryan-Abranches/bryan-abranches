@@ -44,7 +44,13 @@
  <img aling="center" src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt ="Jquery">
  <img aling="center" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt ="Mongodb">
 
-</div><br>
+</div><br><br>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ## Sobre:
 
