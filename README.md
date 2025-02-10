@@ -52,9 +52,4 @@ Tenho experiência em projetos acadêmicos e pessoais, onde aprendi a trabalhar 
 
 Atualmente, busco oportunidades na área de tecnologia para continuar crescendo como desenvolvedor e contribuir para projetos inovadores.  
 
-📌 **GitHub:** [Bryan-Abranches](https://github.com/Bryan-Abranches)  
 📌 **LinkedIn:** [Bryan Abranches](https://www.linkedin.com/in/bryan-abranches/)  
-
----
-
-Esse README agora reflete melhor sua experiência e tecnologias! O que acha dessa versão? 🚀🔥
